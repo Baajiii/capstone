@@ -5,7 +5,7 @@
     <classes>
       <class name="com.Testing.main">
         <methods>
-          <include name="ApplyAdharCrad"/>
+          <include name="ApplyDuplicate"/>
           <include name="start"/>
         </methods>
       </class> <!-- com.Testing.main -->
